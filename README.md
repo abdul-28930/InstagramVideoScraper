@@ -14,9 +14,7 @@ Instagram Video Scraper is a Python-based tool designed to download videos from 
 
 ## Features
 
-- **User Profile Scraping**: Download videos from any public Instagram user profile.
-- **Hashtag Scraping**: Collect videos from posts containing specific hashtags.
-- **Location Scraping**: Retrieve videos from posts tagged with specific locations.
+- **Video Scraping**: Download videos from any public Instagram user profile.
 - **Configurable Output**: Choose the output directory and file naming conventions.
 - **Automated Downloads**: Schedule downloads for batch processing.
 
